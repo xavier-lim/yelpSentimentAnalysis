@@ -13,18 +13,18 @@ This project consists of using natural language processing (NLP) to predict whet
 ## Project Tools
 *	Python
 *	Jupyter Notebook
-*	Yelp Ratings .csv File
+*	yelp_ratings.csv File
 
 ## Data Source
 All the data for this project was collected from [Kaggle](https://www.kaggle.com/matleonard/nlp-course). The data set presents 44530 Yelp reviews, accompanied by ratings (1 to 5 stars). However, I only utilized a subset of the data (5000 reviews) to reduce the amount of time required to run the model.
 
 ## Results
-![Results](https://github.com/xavier-lim/yelpSentimentAnalysis/blob/master/images/results.PNG)
+![Results](https://github.com/xavier-lim/yelpSentimentAnalysis/blob/main/images/results.PNG)
 
 My model correctly classified 95.2% of the reviews.
 
 ## Conclusion
-In conclusion, my model successfully predicted whether most reviews were positive or negative. However, the model accuracy may change by increasing the number of reviews in the training set.
+In conclusion, my model successfully predicted whether most reviews were positive or negative. However, the model accuracy may slightly vary if a larger subset of reviews is extracted from the full dataset.
 
 
 ## Author
