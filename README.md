@@ -1,2 +1,2 @@
-# yelpSentimentAnalysis
-Customer sentiment analysis of Yelp reviews
+# Yelp Customer Sentiment Analysis
+
