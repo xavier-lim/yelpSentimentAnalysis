@@ -6,7 +6,7 @@ This project consists of using natural language processing (NLP) to predict whet
 ## Table of Contents
 1.	[Project Tools](https://github.com/xavier-lim/yelpSentimentAnalysis#project-tools)
 2.	[Data Source](https://github.com/xavier-lim/yelpSentimentAnalysis#data-source)
-4.	[Exploratory Data Analysis](https://github.com/xavier-lim/yelpSentimentAnalysis#results)
+4.	[Results](https://github.com/xavier-lim/yelpSentimentAnalysis#results)
 5.	[Conclusion](https://github.com/xavier-lim/yelpSentimentAnalysis#conclusion)
 7.	[Author](https://github.com/xavier-lim/yelpSentimentAnalysis#author)
 
